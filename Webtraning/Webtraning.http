@@ -1,0 +1,6 @@
+@Webtraning_HostAddress = http://localhost:5134
+
+GET {{Webtraning_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
